@@ -1,3 +1,6 @@
+link : 1. https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+       2. https://registry.terraform.io/namespaces/terraform-aws-modules
+
 Creating EC2 Instance using Terraform
 
 Prerequisites
